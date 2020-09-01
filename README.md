@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![dontcallmilanac](https://github-readme-stats.vercel.app/api?username=dontcallmilanac)](https://github.com/anuraghazra/github-readme-stats)
+[![dontcallmilanac](https://github-readme-stats.vercel.app/api?username=dontcallmilanac?theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
